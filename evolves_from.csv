@@ -1,0 +1,476 @@
+pokemon_name,hp,attack,defense,special-attack,special-defense,speed,type_1,type_2,pokemon_id_x,type_slot_1_id,type_slot_2_id,evolution_requirements,min_level,Evolving_from,evolving_to_id,pokemon_id_y,Evolves_from
+ivysaur,60,62,63,80,80,60,grass,poison,2,6,1,No additional requirements.,16.0,1,2.0,1.0,bulbasaur
+venusaur,80,82,83,100,100,80,grass,poison,3,6,1,No additional requirements.,32.0,2,3.0,2.0,ivysaur
+charmeleon,58,64,58,80,65,80,fire,Empty,5,14,2,No additional requirements.,16.0,4,5.0,4.0,charmander
+charizard,78,84,78,109,85,100,fire,flying,6,14,3,No additional requirements.,36.0,5,6.0,5.0,charmeleon
+wartortle,59,63,80,65,80,58,water,Empty,8,12,2,No additional requirements.,16.0,7,8.0,7.0,squirtle
+blastoise,79,83,100,85,105,78,water,Empty,9,12,2,No additional requirements.,36.0,8,9.0,8.0,wartortle
+metapod,50,20,55,25,25,30,bug,Empty,11,18,2,No additional requirements.,7.0,10,11.0,10.0,caterpie
+butterfree,60,45,50,90,80,70,bug,flying,12,18,3,No additional requirements.,10.0,11,12.0,11.0,metapod
+kakuna,45,25,50,25,25,35,bug,poison,14,18,1,No additional requirements.,7.0,13,14.0,13.0,weedle
+beedrill,65,90,40,45,80,75,bug,poison,15,18,1,No additional requirements.,10.0,14,15.0,14.0,kakuna
+pidgeotto,63,60,55,50,50,71,normal,flying,17,19,3,No additional requirements.,18.0,16,17.0,16.0,pidgey
+pidgeot,83,80,75,70,70,101,normal,flying,18,19,3,No additional requirements.,36.0,17,18.0,17.0,pidgeotto
+raticate,55,81,60,50,70,97,normal,Empty,20,19,2,To evolve this pokemon it needs to reach a minimum level during night ,20.0,19,20.0,19.0,rattata
+fearow,65,90,65,61,61,100,normal,flying,22,19,3,No additional requirements.,20.0,21,22.0,21.0,spearow
+arbok,60,95,69,65,79,80,poison,Empty,24,1,2,No additional requirements.,22.0,23,24.0,23.0,ekans
+pikachu,35,55,40,50,50,90,electric,Empty,25,13,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 220.0 ,0.0,172,25.0,172.0,pichu
+raichu,60,90,55,90,80,110,electric,Empty,26,13,2,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,25,26.0,25.0,pikachu
+sandslash,75,100,110,45,55,65,ground,Empty,28,4,2,To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,22.0,27,28.0,27.0,sandshrew
+nidorina,70,62,67,55,55,56,poison,Empty,30,1,2,No additional requirements.,16.0,29,30.0,29.0,nidoran-f
+nidoqueen,90,92,87,75,85,76,poison,ground,31,1,4,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,30,31.0,30.0,nidorina
+nidorino,61,72,57,55,55,65,poison,Empty,33,1,2,No additional requirements.,16.0,32,33.0,32.0,nidoran-m
+nidoking,81,102,77,85,75,85,poison,ground,34,1,4,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,33,34.0,33.0,nidorino
+clefairy,70,45,48,60,65,35,fairy,Empty,35,5,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,173,35.0,173.0,cleffa
+clefable,95,70,73,95,90,60,fairy,Empty,36,5,2,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,35,36.0,35.0,clefairy
+ninetales,73,76,75,81,100,100,fire,Empty,38,14,2,To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,0.0,37,38.0,37.0,vulpix
+jigglypuff,115,45,20,45,25,20,normal,fairy,39,19,5,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,174,39.0,174.0,igglybuff
+wigglytuff,140,70,45,85,50,45,normal,fairy,40,19,5,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,39,40.0,39.0,jigglypuff
+golbat,75,80,70,65,75,90,poison,flying,42,1,3,No additional requirements.,22.0,41,42.0,41.0,zubat
+gloom,60,65,70,85,75,40,grass,poison,44,6,1,No additional requirements.,21.0,43,44.0,43.0,oddish
+vileplume,75,80,85,110,90,50,grass,poison,45,6,1,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,44,45.0,44.0,gloom
+parasect,60,95,80,60,80,30,bug,grass,47,18,6,No additional requirements.,24.0,46,47.0,46.0,paras
+venomoth,70,65,60,90,75,90,bug,poison,49,18,1,No additional requirements.,31.0,48,49.0,48.0,venonat
+dugtrio,35,100,50,50,70,120,ground,Empty,51,4,2,No additional requirements.,26.0,50,51.0,50.0,diglett
+persian,65,70,60,65,65,115,normal,Empty,53,19,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,28.0,52,53.0,52.0,meowth
+golduck,80,82,78,95,80,85,water,Empty,55,12,2,No additional requirements.,33.0,54,55.0,54.0,psyduck
+primeape,65,105,60,60,70,95,fighting,Empty,57,7,2,No additional requirements.,28.0,56,57.0,56.0,mankey
+arcanine,90,110,80,100,80,95,fire,Empty,59,14,2,To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,58,59.0,58.0,growlithe
+poliwhirl,65,65,65,50,50,90,water,Empty,61,12,2,No additional requirements.,25.0,60,61.0,60.0,poliwag
+poliwrath,90,95,95,70,90,70,water,fighting,62,12,7,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,61,62.0,61.0,poliwhirl
+kadabra,40,35,30,120,70,105,psychic,Empty,64,8,2,No additional requirements.,16.0,63,64.0,63.0,abra
+alakazam,55,50,45,135,95,120,psychic,Empty,65,8,2,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,64,65.0,64.0,kadabra
+machoke,80,100,70,50,60,45,fighting,Empty,67,7,2,No additional requirements.,28.0,66,67.0,66.0,machop
+machamp,90,130,80,65,85,55,fighting,Empty,68,7,2,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,67,68.0,67.0,machoke
+weepinbell,65,90,50,85,45,55,grass,poison,70,6,1,No additional requirements.,21.0,69,70.0,69.0,bellsprout
+victreebel,80,105,65,100,70,70,grass,poison,71,6,1,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,70,71.0,70.0,weepinbell
+tentacruel,80,70,65,80,120,100,water,poison,73,12,1,No additional requirements.,30.0,72,73.0,72.0,tentacool
+graveler,55,95,115,45,45,35,rock,ground,75,11,4,No additional requirements.,25.0,74,75.0,74.0,geodude
+golem,80,120,130,55,65,45,rock,ground,76,11,4,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,75,76.0,75.0,graveler
+rapidash,65,100,70,80,80,105,fire,Empty,78,14,2,No additional requirements.,40.0,77,78.0,77.0,ponyta
+slowbro,95,75,110,100,80,30,water,psychic,80,12,8,To evolve this pokemon it needs to reach a minimum level and have a(n) galarica-cuff used on it ,37.0,79,80.0,79.0,slowpoke
+magneton,50,60,95,120,70,70,electric,steel,82,13,9,No additional requirements.,30.0,81,82.0,81.0,magnemite
+dodrio,60,110,70,60,60,110,normal,flying,85,19,3,No additional requirements.,31.0,84,85.0,84.0,doduo
+dewgong,90,70,80,70,95,70,water,ice,87,12,10,No additional requirements.,34.0,86,87.0,86.0,seel
+muk,105,105,75,65,100,50,poison,Empty,89,1,2,No additional requirements.,38.0,88,89.0,88.0,grimer
+cloyster,50,95,180,85,45,70,water,ice,91,12,10,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,90,91.0,90.0,shellder
+haunter,45,50,45,115,55,95,ghost,poison,93,17,1,No additional requirements.,25.0,92,93.0,92.0,gastly
+gengar,60,65,60,130,75,110,ghost,poison,94,17,1,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,93,94.0,93.0,haunter
+hypno,85,73,70,73,115,67,psychic,Empty,97,8,2,No additional requirements.,26.0,96,97.0,96.0,drowzee
+kingler,55,130,115,50,50,75,water,Empty,99,12,2,No additional requirements.,28.0,98,99.0,98.0,krabby
+electrode,60,50,70,80,80,150,electric,Empty,101,13,2,No additional requirements.,30.0,100,101.0,100.0,voltorb
+exeggutor,95,95,85,125,75,55,grass,psychic,103,6,8,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,102,103.0,102.0,exeggcute
+marowak,60,80,110,50,80,45,ground,Empty,105,4,2,To evolve this pokemon it needs to reach a minimum level during night ,28.0,104,105.0,104.0,cubone
+hitmonlee,50,120,53,35,110,87,fighting,Empty,106,7,2,To evolve this pokemon it needs to reach a minimum level with Attack > Defense ,20.0,236,106.0,236.0,tyrogue
+hitmonchan,50,105,79,35,110,76,fighting,Empty,107,7,2,To evolve this pokemon it needs to reach a minimum level with Attack < Defense ,20.0,236,107.0,236.0,tyrogue
+weezing,65,90,120,85,70,60,poison,Empty,110,1,2,No additional requirements.,35.0,109,110.0,109.0,koffing
+rhydon,105,130,120,45,45,40,ground,rock,112,4,11,No additional requirements.,42.0,111,112.0,111.0,rhyhorn
+chansey,250,5,5,35,105,50,normal,Empty,113,19,2,To evolve this pokemon it needs to reach a minimum level during day  while holding a(n) oval-stone,0.0,440,113.0,440.0,happiny
+seadra,55,65,95,95,45,85,water,Empty,117,12,2,No additional requirements.,32.0,116,117.0,116.0,horsea
+seaking,80,92,65,65,80,68,water,Empty,119,12,2,No additional requirements.,33.0,118,119.0,118.0,goldeen
+starmie,60,75,85,100,85,115,water,psychic,121,12,8,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,120,121.0,120.0,staryu
+mr-mime,40,45,65,100,120,90,psychic,fairy,122,8,5,To evolve this pokemon it needs to reach a minimum level  and know the mimic move,0.0,439,122.0,439.0,mime-jr
+jynx,65,50,35,115,95,95,ice,psychic,124,10,8,No additional requirements.,30.0,238,124.0,238.0,smoochum
+electabuzz,65,83,57,95,85,105,electric,Empty,125,13,2,No additional requirements.,30.0,239,125.0,239.0,elekid
+magmar,65,95,57,100,85,93,fire,Empty,126,14,2,No additional requirements.,30.0,240,126.0,240.0,magby
+gyarados,95,125,79,60,100,81,water,flying,130,12,3,No additional requirements.,20.0,129,130.0,129.0,magikarp
+vaporeon,130,65,60,110,95,65,water,Empty,134,12,2,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,133,134.0,133.0,eevee
+jolteon,65,65,60,110,95,130,electric,Empty,135,13,2,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,133,135.0,133.0,eevee
+flareon,65,130,60,95,110,65,fire,Empty,136,14,2,To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,133,136.0,133.0,eevee
+omastar,70,60,125,115,70,55,rock,water,139,11,12,No additional requirements.,40.0,138,139.0,138.0,omanyte
+kabutops,60,115,105,65,70,80,rock,water,141,11,12,No additional requirements.,40.0,140,141.0,140.0,kabuto
+snorlax,160,110,65,65,110,30,normal,Empty,143,19,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,446,143.0,446.0,munchlax
+dragonair,61,84,65,70,70,70,dragon,Empty,148,15,2,No additional requirements.,30.0,147,148.0,147.0,dratini
+dragonite,91,134,95,100,100,80,dragon,flying,149,15,3,No additional requirements.,55.0,148,149.0,148.0,dragonair
+bayleef,60,62,80,63,80,60,grass,Empty,153,6,2,No additional requirements.,16.0,152,153.0,152.0,chikorita
+meganium,80,82,100,83,100,80,grass,Empty,154,6,2,No additional requirements.,32.0,153,154.0,153.0,bayleef
+quilava,58,64,58,80,65,80,fire,Empty,156,14,2,No additional requirements.,14.0,155,156.0,155.0,cyndaquil
+typhlosion,78,84,78,109,85,100,fire,Empty,157,14,2,No additional requirements.,36.0,156,157.0,156.0,quilava
+croconaw,65,80,80,59,63,58,water,Empty,159,12,2,No additional requirements.,18.0,158,159.0,158.0,totodile
+feraligatr,85,105,100,79,83,78,water,Empty,160,12,2,No additional requirements.,30.0,159,160.0,159.0,croconaw
+furret,85,76,64,45,55,90,normal,Empty,162,19,2,No additional requirements.,15.0,161,162.0,161.0,sentret
+noctowl,100,50,50,86,96,70,normal,flying,164,19,3,No additional requirements.,20.0,163,164.0,163.0,hoothoot
+ledian,55,35,50,55,110,85,bug,flying,166,18,3,No additional requirements.,18.0,165,166.0,165.0,ledyba
+ariados,70,90,70,60,70,40,bug,poison,168,18,1,No additional requirements.,22.0,167,168.0,167.0,spinarak
+crobat,85,90,80,70,80,130,poison,flying,169,1,3,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,42,169.0,42.0,golbat
+lanturn,125,58,58,76,76,67,water,electric,171,12,13,No additional requirements.,27.0,170,171.0,170.0,chinchou
+togetic,55,40,85,80,105,40,fairy,flying,176,5,3,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,175,176.0,175.0,togepi
+xatu,65,75,70,95,70,95,psychic,flying,178,8,3,No additional requirements.,25.0,177,178.0,177.0,natu
+flaaffy,70,55,55,80,60,45,electric,Empty,180,13,2,No additional requirements.,15.0,179,180.0,179.0,mareep
+ampharos,90,75,85,115,90,55,electric,Empty,181,13,2,No additional requirements.,30.0,180,181.0,180.0,flaaffy
+bellossom,75,80,95,90,100,50,grass,Empty,182,6,2,To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,44,182.0,44.0,gloom
+marill,70,20,50,20,50,40,water,fairy,183,12,5,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,298,183.0,298.0,azurill
+azumarill,100,50,80,60,80,50,water,fairy,184,12,5,No additional requirements.,18.0,183,184.0,183.0,marill
+sudowoodo,70,100,115,30,65,30,rock,Empty,185,11,2,To evolve this pokemon it needs to reach a minimum level  and know the mimic move,0.0,438,185.0,438.0,bonsly
+politoed,90,75,75,90,100,70,water,Empty,186,12,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) kings-rock,0.0,61,186.0,61.0,poliwhirl
+skiploom,55,45,50,45,65,80,grass,flying,188,6,3,No additional requirements.,18.0,187,188.0,187.0,hoppip
+jumpluff,75,55,70,55,95,110,grass,flying,189,6,3,No additional requirements.,27.0,188,189.0,188.0,skiploom
+sunflora,75,75,55,105,85,30,grass,Empty,192,6,2,To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,191,192.0,191.0,sunkern
+quagsire,95,85,85,65,65,35,water,ground,195,12,4,No additional requirements.,20.0,194,195.0,194.0,wooper
+espeon,65,65,60,130,95,110,psychic,Empty,196,8,2,To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,133,196.0,133.0,eevee
+umbreon,95,65,110,60,130,65,dark,Empty,197,16,2,To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 160.0 ,0.0,133,197.0,133.0,eevee
+slowking,95,75,80,100,110,30,water,psychic,199,12,8,To evolve this pokemon it needs to reach a minimum level and have a(n) galarica-wreath used on it  while holding a(n) kings-rock,0.0,79,199.0,79.0,slowpoke
+wobbuffet,190,33,58,33,58,33,psychic,Empty,202,8,2,No additional requirements.,15.0,360,202.0,360.0,wynaut
+forretress,75,90,140,60,60,40,bug,steel,205,18,9,No additional requirements.,31.0,204,205.0,204.0,pineco
+steelix,75,85,200,55,65,30,steel,ground,208,9,4,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) metal-coat,0.0,95,208.0,95.0,onix
+granbull,90,120,75,60,60,45,fairy,Empty,210,5,2,No additional requirements.,23.0,209,210.0,209.0,snubbull
+scizor,70,130,100,55,80,65,bug,steel,212,18,9,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) metal-coat,0.0,123,212.0,123.0,scyther
+ursaring,90,130,75,75,75,55,normal,Empty,217,19,2,No additional requirements.,30.0,216,217.0,216.0,teddiursa
+magcargo,60,50,120,90,80,30,fire,rock,219,14,11,No additional requirements.,38.0,218,219.0,218.0,slugma
+piloswine,100,100,80,60,60,50,ice,ground,221,10,4,No additional requirements.,33.0,220,221.0,220.0,swinub
+octillery,75,105,75,105,75,45,water,Empty,224,12,2,No additional requirements.,25.0,223,224.0,223.0,remoraid
+mantine,85,40,70,80,140,70,water,flying,226,12,3,To evolve this pokemon it needs to reach a minimum level while having a remoraid in your party ,0.0,458,226.0,458.0,mantyke
+houndoom,75,90,50,110,80,95,dark,fire,229,16,14,No additional requirements.,24.0,228,229.0,228.0,houndour
+kingdra,75,95,95,95,95,85,water,dragon,230,12,15,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) dragon-scale,0.0,117,230.0,117.0,seadra
+donphan,90,120,120,60,60,50,ground,Empty,232,4,2,No additional requirements.,25.0,231,232.0,231.0,phanpy
+porygon2,85,80,90,105,95,60,normal,Empty,233,19,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) up-grade,0.0,137,233.0,137.0,porygon
+hitmontop,50,95,95,35,110,70,fighting,Empty,237,7,2,To evolve this pokemon it needs to reach a minimum level with Attack = Defense ,20.0,236,237.0,236.0,tyrogue
+blissey,255,10,10,75,135,55,normal,Empty,242,19,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,113,242.0,113.0,chansey
+pupitar,70,84,70,65,70,51,rock,ground,247,11,4,No additional requirements.,30.0,246,247.0,246.0,larvitar
+tyranitar,100,134,110,95,100,61,rock,dark,248,11,16,No additional requirements.,55.0,247,248.0,247.0,pupitar
+grovyle,50,65,45,85,65,95,grass,Empty,253,6,2,No additional requirements.,16.0,252,253.0,252.0,treecko
+sceptile,70,85,65,105,85,120,grass,Empty,254,6,2,No additional requirements.,36.0,253,254.0,253.0,grovyle
+combusken,60,85,60,85,60,55,fire,fighting,256,14,7,No additional requirements.,16.0,255,256.0,255.0,torchic
+blaziken,80,120,70,110,70,80,fire,fighting,257,14,7,No additional requirements.,36.0,256,257.0,256.0,combusken
+marshtomp,70,85,70,60,70,50,water,ground,259,12,4,No additional requirements.,16.0,258,259.0,258.0,mudkip
+swampert,100,110,90,85,90,60,water,ground,260,12,4,No additional requirements.,36.0,259,260.0,259.0,marshtomp
+mightyena,70,90,70,60,60,70,dark,Empty,262,16,2,No additional requirements.,18.0,261,262.0,261.0,poochyena
+linoone,78,70,61,50,61,100,normal,Empty,264,19,2,No additional requirements.,20.0,263,264.0,263.0,zigzagoon
+silcoon,50,35,55,25,25,15,bug,Empty,266,18,2,No additional requirements.,7.0,265,266.0,265.0,wurmple
+beautifly,60,70,50,100,50,65,bug,flying,267,18,3,No additional requirements.,10.0,266,267.0,266.0,silcoon
+cascoon,50,35,55,25,25,15,bug,Empty,268,18,2,No additional requirements.,7.0,265,268.0,265.0,wurmple
+dustox,60,50,70,50,90,65,bug,poison,269,18,1,No additional requirements.,10.0,268,269.0,268.0,cascoon
+lombre,60,50,50,60,70,50,water,grass,271,12,6,No additional requirements.,14.0,270,271.0,270.0,lotad
+ludicolo,80,70,70,90,100,70,water,grass,272,12,6,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,271,272.0,271.0,lombre
+nuzleaf,70,70,40,60,40,60,grass,dark,274,6,16,No additional requirements.,14.0,273,274.0,273.0,seedot
+shiftry,90,100,60,90,60,80,grass,dark,275,6,16,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,274,275.0,274.0,nuzleaf
+swellow,60,85,60,75,50,125,normal,flying,277,19,3,No additional requirements.,22.0,276,277.0,276.0,taillow
+pelipper,60,50,100,95,70,65,water,flying,279,12,3,No additional requirements.,25.0,278,279.0,278.0,wingull
+kirlia,38,35,35,65,55,50,psychic,fairy,281,8,5,No additional requirements.,20.0,280,281.0,280.0,ralts
+gardevoir,68,65,65,125,115,80,psychic,fairy,282,8,5,No additional requirements.,30.0,281,282.0,281.0,kirlia
+masquerain,70,60,62,100,82,80,bug,flying,284,18,3,No additional requirements.,22.0,283,284.0,283.0,surskit
+breloom,60,130,80,60,60,70,grass,fighting,286,6,7,No additional requirements.,23.0,285,286.0,285.0,shroomish
+vigoroth,80,80,80,55,55,90,normal,Empty,288,19,2,No additional requirements.,18.0,287,288.0,287.0,slakoth
+slaking,150,160,100,95,65,100,normal,Empty,289,19,2,No additional requirements.,36.0,288,289.0,288.0,vigoroth
+ninjask,61,90,45,50,50,160,bug,flying,291,18,3,No additional requirements.,20.0,290,291.0,290.0,nincada
+shedinja,1,90,45,30,30,40,bug,ghost,292,18,17,To evolve this pokemon it needs to reach a minimum level and shed,0.0,290,292.0,290.0,nincada
+loudred,84,71,43,71,43,48,normal,Empty,294,19,2,No additional requirements.,20.0,293,294.0,293.0,whismur
+exploud,104,91,63,91,73,68,normal,Empty,295,19,2,No additional requirements.,40.0,294,295.0,294.0,loudred
+hariyama,144,120,60,40,60,50,fighting,Empty,297,7,2,No additional requirements.,24.0,296,297.0,296.0,makuhita
+delcatty,70,65,65,55,55,90,normal,Empty,301,19,2,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,300,301.0,300.0,skitty
+lairon,60,90,140,50,50,40,steel,rock,305,9,11,No additional requirements.,32.0,304,305.0,304.0,aron
+aggron,70,110,180,60,60,50,steel,rock,306,9,11,No additional requirements.,42.0,305,306.0,305.0,lairon
+medicham,60,60,75,60,75,80,fighting,psychic,308,7,8,No additional requirements.,37.0,307,308.0,307.0,meditite
+manectric,70,75,60,105,60,105,electric,Empty,310,13,2,No additional requirements.,26.0,309,310.0,309.0,electrike
+roselia,50,60,45,100,80,65,grass,poison,315,6,1,To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,406,315.0,406.0,budew
+swalot,100,73,83,73,83,55,poison,Empty,317,1,2,No additional requirements.,26.0,316,317.0,316.0,gulpin
+sharpedo,70,120,40,95,40,95,water,dark,319,12,16,No additional requirements.,30.0,318,319.0,318.0,carvanha
+wailord,170,90,45,90,45,60,water,Empty,321,12,2,No additional requirements.,40.0,320,321.0,320.0,wailmer
+camerupt,70,100,70,105,75,40,fire,ground,323,14,4,No additional requirements.,33.0,322,323.0,322.0,numel
+grumpig,80,45,65,90,110,80,psychic,Empty,326,8,2,No additional requirements.,32.0,325,326.0,325.0,spoink
+vibrava,50,70,50,50,50,70,ground,dragon,329,4,15,No additional requirements.,35.0,328,329.0,328.0,trapinch
+flygon,80,100,80,80,80,100,ground,dragon,330,4,15,No additional requirements.,45.0,329,330.0,329.0,vibrava
+cacturne,70,115,60,115,60,55,grass,dark,332,6,16,No additional requirements.,32.0,331,332.0,331.0,cacnea
+altaria,75,70,90,70,105,80,dragon,flying,334,15,3,No additional requirements.,35.0,333,334.0,333.0,swablu
+whiscash,110,78,73,76,71,60,water,ground,340,12,4,No additional requirements.,30.0,339,340.0,339.0,barboach
+crawdaunt,63,120,85,90,55,55,water,dark,342,12,16,No additional requirements.,30.0,341,342.0,341.0,corphish
+claydol,60,70,105,70,120,75,ground,psychic,344,4,8,No additional requirements.,36.0,343,344.0,343.0,baltoy
+cradily,86,81,97,81,107,43,rock,grass,346,11,6,No additional requirements.,40.0,345,346.0,345.0,lileep
+armaldo,75,125,100,70,80,45,rock,bug,348,11,18,No additional requirements.,40.0,347,348.0,347.0,anorith
+milotic,95,60,79,100,125,81,water,Empty,350,12,2,To evolve this pokemon it needs to reach a minimum level  and get its beauty level to minimum 170.0 while holding a(n) prism-scale,0.0,349,350.0,349.0,feebas
+banette,64,115,65,83,63,65,ghost,Empty,354,17,2,No additional requirements.,37.0,353,354.0,353.0,shuppet
+dusclops,40,70,130,60,130,25,ghost,Empty,356,17,2,No additional requirements.,37.0,355,356.0,355.0,duskull
+chimecho,75,50,80,95,90,65,psychic,Empty,358,8,2,To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 220.0 ,0.0,433,358.0,433.0,chingling
+glalie,80,80,80,80,80,80,ice,Empty,362,10,2,No additional requirements.,42.0,361,362.0,361.0,snorunt
+sealeo,90,60,70,75,70,45,ice,water,364,10,12,No additional requirements.,32.0,363,364.0,363.0,spheal
+walrein,110,80,90,95,90,65,ice,water,365,10,12,No additional requirements.,44.0,364,365.0,364.0,sealeo
+huntail,55,104,105,94,75,52,water,Empty,367,12,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) deep-sea-tooth,0.0,366,367.0,366.0,clamperl
+gorebyss,55,84,105,114,75,52,water,Empty,368,12,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) deep-sea-scale,0.0,366,368.0,366.0,clamperl
+shelgon,65,95,100,60,50,50,dragon,Empty,372,15,2,No additional requirements.,30.0,371,372.0,371.0,bagon
+salamence,95,135,80,110,80,100,dragon,flying,373,15,3,No additional requirements.,50.0,372,373.0,372.0,shelgon
+metang,60,75,100,55,80,50,steel,psychic,375,9,8,No additional requirements.,20.0,374,375.0,374.0,beldum
+metagross,80,135,130,95,90,70,steel,psychic,376,9,8,No additional requirements.,45.0,375,376.0,375.0,metang
+grotle,75,89,85,55,65,36,grass,Empty,388,6,2,No additional requirements.,18.0,387,388.0,387.0,turtwig
+torterra,95,109,105,75,85,56,grass,ground,389,6,4,No additional requirements.,32.0,388,389.0,388.0,grotle
+monferno,64,78,52,78,52,81,fire,fighting,391,14,7,No additional requirements.,14.0,390,391.0,390.0,chimchar
+infernape,76,104,71,104,71,108,fire,fighting,392,14,7,No additional requirements.,36.0,391,392.0,391.0,monferno
+prinplup,64,66,68,81,76,50,water,Empty,394,12,2,No additional requirements.,16.0,393,394.0,393.0,piplup
+empoleon,84,86,88,111,101,60,water,steel,395,12,9,No additional requirements.,36.0,394,395.0,394.0,prinplup
+staravia,55,75,50,40,40,80,normal,flying,397,19,3,No additional requirements.,14.0,396,397.0,396.0,starly
+staraptor,85,120,70,50,60,100,normal,flying,398,19,3,No additional requirements.,34.0,397,398.0,397.0,staravia
+bibarel,79,85,60,55,60,71,normal,water,400,19,12,No additional requirements.,15.0,399,400.0,399.0,bidoof
+kricketune,77,85,51,55,51,65,bug,Empty,402,18,2,No additional requirements.,10.0,401,402.0,401.0,kricketot
+luxio,60,85,49,60,49,60,electric,Empty,404,13,2,No additional requirements.,15.0,403,404.0,403.0,shinx
+luxray,80,120,79,95,79,70,electric,Empty,405,13,2,No additional requirements.,30.0,404,405.0,404.0,luxio
+roserade,60,70,65,125,105,90,grass,poison,407,6,1,To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,315,407.0,315.0,roselia
+rampardos,97,165,60,65,50,58,rock,Empty,409,11,2,No additional requirements.,30.0,408,409.0,408.0,cranidos
+bastiodon,60,52,168,47,138,30,rock,steel,411,11,9,No additional requirements.,30.0,410,411.0,410.0,shieldon
+mothim,70,94,50,94,50,66,bug,flying,414,18,3,To evolve this pokemon it needs to reach a minimum level  and it needs to be Male ,20.0,412,414.0,412.0,burmy
+vespiquen,70,80,102,80,102,40,bug,flying,416,18,3,To evolve this pokemon it needs to reach a minimum level  and it needs to be Female ,21.0,415,416.0,415.0,combee
+floatzel,85,105,55,85,50,115,water,Empty,419,12,2,No additional requirements.,26.0,418,419.0,418.0,buizel
+cherrim,70,60,70,87,78,85,grass,Empty,421,6,2,No additional requirements.,25.0,420,421.0,420.0,cherubi
+gastrodon,111,83,68,92,82,39,water,ground,423,12,4,No additional requirements.,30.0,422,423.0,422.0,shellos
+ambipom,75,100,66,60,66,115,normal,Empty,424,19,2,To evolve this pokemon it needs to reach a minimum level  and know the double-hit move,0.0,190,424.0,190.0,aipom
+drifblim,150,80,44,90,54,80,ghost,flying,426,17,3,No additional requirements.,28.0,425,426.0,425.0,drifloon
+lopunny,65,76,84,54,96,105,normal,Empty,428,19,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,427,428.0,427.0,buneary
+mismagius,60,60,60,105,105,105,ghost,Empty,429,17,2,To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,200,429.0,200.0,misdreavus
+honchkrow,100,125,52,105,52,71,dark,flying,430,16,3,To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,198,430.0,198.0,murkrow
+purugly,71,82,64,64,59,112,normal,Empty,432,19,2,No additional requirements.,38.0,431,432.0,431.0,glameow
+skuntank,103,93,67,71,61,84,poison,dark,435,1,16,No additional requirements.,34.0,434,435.0,434.0,stunky
+bronzong,67,89,116,79,116,33,steel,psychic,437,9,8,No additional requirements.,33.0,436,437.0,436.0,bronzor
+gabite,68,90,65,50,55,82,dragon,ground,444,15,4,No additional requirements.,24.0,443,444.0,443.0,gible
+garchomp,108,130,95,80,85,102,dragon,ground,445,15,4,No additional requirements.,48.0,444,445.0,444.0,gabite
+lucario,70,110,70,115,70,90,fighting,steel,448,7,9,To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,447,448.0,447.0,riolu
+hippowdon,108,112,118,68,72,47,ground,Empty,450,4,2,No additional requirements.,34.0,449,450.0,449.0,hippopotas
+drapion,70,90,110,60,75,95,poison,dark,452,1,16,No additional requirements.,40.0,451,452.0,451.0,skorupi
+toxicroak,83,106,65,86,65,85,poison,fighting,454,1,7,No additional requirements.,37.0,453,454.0,453.0,croagunk
+lumineon,69,69,76,69,86,91,water,Empty,457,12,2,No additional requirements.,31.0,456,457.0,456.0,finneon
+abomasnow,90,92,75,92,85,60,grass,ice,460,6,10,No additional requirements.,40.0,459,460.0,459.0,snover
+weavile,70,120,65,45,85,125,dark,ice,461,16,10,To evolve this pokemon it needs to reach a minimum level during night  while holding a(n) razor-claw,0.0,215,461.0,215.0,sneasel
+magnezone,70,70,115,130,90,60,electric,steel,462,13,9,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it  while at kalos-route-13,0.0,82,462.0,82.0,magneton
+lickilicky,110,85,95,80,95,50,normal,Empty,463,19,2,To evolve this pokemon it needs to reach a minimum level  and know the rollout move,0.0,108,463.0,108.0,lickitung
+rhyperior,115,140,130,55,55,40,ground,rock,464,4,11,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) protector,0.0,112,464.0,112.0,rhydon
+tangrowth,100,100,125,110,50,50,grass,Empty,465,6,2,To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,114,465.0,114.0,tangela
+electivire,75,123,67,95,85,95,electric,Empty,466,13,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) electirizer,0.0,125,466.0,125.0,electabuzz
+magmortar,75,95,67,125,95,83,fire,Empty,467,14,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) magmarizer,0.0,126,467.0,126.0,magmar
+togekiss,85,50,95,120,115,80,fairy,flying,468,5,3,To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,176,468.0,176.0,togetic
+yanmega,86,76,86,116,56,95,bug,flying,469,18,3,To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,193,469.0,193.0,yanma
+leafeon,65,110,130,60,65,95,grass,Empty,470,6,2,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it  while at kalos-route-20,0.0,133,470.0,133.0,eevee
+glaceon,65,60,110,130,95,65,ice,Empty,471,10,2,To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it  while at frost-cavern,0.0,133,471.0,133.0,eevee
+gliscor,75,95,125,45,75,95,ground,flying,472,4,3,To evolve this pokemon it needs to reach a minimum level during night  while holding a(n) razor-fang,0.0,207,472.0,207.0,gligar
+mamoswine,110,130,80,70,60,80,ice,ground,473,10,4,To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,221,473.0,221.0,piloswine
+porygon-z,85,80,70,135,75,90,normal,Empty,474,19,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) dubious-disc,0.0,233,474.0,233.0,porygon2
+gallade,68,125,65,65,115,80,psychic,fighting,475,8,7,To evolve this pokemon it needs to reach a minimum level and have a(n) dawn-stone used on it  and it needs to be Male ,0.0,281,475.0,281.0,kirlia
+probopass,60,55,145,75,150,40,rock,steel,476,11,9,To evolve this pokemon it needs to reach a minimum level  while at kalos-route-13,0.0,299,476.0,299.0,nosepass
+dusknoir,45,100,135,65,135,45,ghost,Empty,477,17,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) reaper-cloth,0.0,356,477.0,356.0,dusclops
+froslass,70,80,70,80,70,110,ice,ghost,478,10,17,To evolve this pokemon it needs to reach a minimum level and have a(n) dawn-stone used on it  and it needs to be Female ,0.0,361,478.0,361.0,snorunt
+manaphy,100,100,100,100,100,100,water,Empty,490,12,2,No additional requirements.,0.0,489,490.0,489.0,phione
+servine,60,60,75,60,75,83,grass,Empty,496,6,2,No additional requirements.,17.0,495,496.0,495.0,snivy
+serperior,75,75,95,75,95,113,grass,Empty,497,6,2,No additional requirements.,36.0,496,497.0,496.0,servine
+pignite,90,93,55,70,55,55,fire,fighting,499,14,7,No additional requirements.,17.0,498,499.0,498.0,tepig
+emboar,110,123,65,100,65,65,fire,fighting,500,14,7,No additional requirements.,36.0,499,500.0,499.0,pignite
+dewott,75,75,60,83,60,60,water,Empty,502,12,2,No additional requirements.,17.0,501,502.0,501.0,oshawott
+samurott,95,100,85,108,70,70,water,Empty,503,12,2,No additional requirements.,36.0,502,503.0,502.0,dewott
+watchog,60,85,69,60,69,77,normal,Empty,505,19,2,No additional requirements.,20.0,504,505.0,504.0,patrat
+herdier,65,80,65,35,65,60,normal,Empty,507,19,2,No additional requirements.,16.0,506,507.0,506.0,lillipup
+stoutland,85,110,90,45,90,80,normal,Empty,508,19,2,No additional requirements.,32.0,507,508.0,507.0,herdier
+liepard,64,88,50,88,50,106,dark,Empty,510,16,2,No additional requirements.,20.0,509,510.0,509.0,purrloin
+simisage,75,98,63,98,63,101,grass,Empty,512,6,2,To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,511,512.0,511.0,pansage
+simisear,75,98,63,98,63,101,fire,Empty,514,14,2,To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,513,514.0,513.0,pansear
+simipour,75,98,63,98,63,101,water,Empty,516,12,2,To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,515,516.0,515.0,panpour
+musharna,116,55,85,107,95,29,psychic,Empty,518,8,2,To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,517,518.0,517.0,munna
+tranquill,62,77,62,50,42,65,normal,flying,520,19,3,No additional requirements.,21.0,519,520.0,519.0,pidove
+unfezant,80,115,80,65,55,93,normal,flying,521,19,3,No additional requirements.,32.0,520,521.0,520.0,tranquill
+zebstrika,75,100,63,80,63,116,electric,Empty,523,13,2,No additional requirements.,27.0,522,523.0,522.0,blitzle
+boldore,70,105,105,50,40,20,rock,Empty,525,11,2,No additional requirements.,25.0,524,525.0,524.0,roggenrola
+gigalith,85,135,130,60,80,25,rock,Empty,526,11,2,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,525,526.0,525.0,boldore
+swoobat,67,57,55,77,55,114,psychic,flying,528,8,3,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,527,528.0,527.0,woobat
+excadrill,110,135,60,50,65,88,ground,steel,530,4,9,No additional requirements.,31.0,529,530.0,529.0,drilbur
+gurdurr,85,105,85,40,50,40,fighting,Empty,533,7,2,No additional requirements.,25.0,532,533.0,532.0,timburr
+conkeldurr,105,140,95,55,65,45,fighting,Empty,534,7,2,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,533,534.0,533.0,gurdurr
+palpitoad,75,65,55,65,55,69,water,ground,536,12,4,No additional requirements.,25.0,535,536.0,535.0,tympole
+seismitoad,105,95,75,85,75,74,water,ground,537,12,4,No additional requirements.,36.0,536,537.0,536.0,palpitoad
+swadloon,55,63,90,50,80,42,bug,grass,541,18,6,No additional requirements.,20.0,540,541.0,540.0,sewaddle
+leavanny,75,103,80,70,80,92,bug,grass,542,18,6,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 220.0 ,0.0,541,542.0,541.0,swadloon
+whirlipede,40,55,99,40,79,47,bug,poison,544,18,1,No additional requirements.,22.0,543,544.0,543.0,venipede
+scolipede,60,100,89,55,69,112,bug,poison,545,18,1,No additional requirements.,30.0,544,545.0,544.0,whirlipede
+whimsicott,60,67,85,77,75,116,grass,fairy,547,6,5,To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,546,547.0,546.0,cottonee
+lilligant,70,60,75,110,75,90,grass,Empty,549,6,2,To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,548,549.0,548.0,petilil
+krokorok,60,82,45,45,45,74,ground,dark,552,4,16,No additional requirements.,29.0,551,552.0,551.0,sandile
+krookodile,95,117,80,65,70,92,ground,dark,553,4,16,No additional requirements.,40.0,552,553.0,552.0,krokorok
+crustle,70,105,125,65,75,45,bug,rock,558,18,11,No additional requirements.,34.0,557,558.0,557.0,dwebble
+scrafty,65,90,115,45,115,58,dark,fighting,560,16,7,No additional requirements.,39.0,559,560.0,559.0,scraggy
+cofagrigus,58,50,145,95,105,30,ghost,Empty,563,17,2,No additional requirements.,34.0,562,563.0,562.0,yamask
+carracosta,74,108,133,83,65,32,water,rock,565,12,11,No additional requirements.,37.0,564,565.0,564.0,tirtouga
+archeops,75,140,65,112,65,110,rock,flying,567,11,3,No additional requirements.,37.0,566,567.0,566.0,archen
+garbodor,80,95,82,60,82,75,poison,Empty,569,1,2,No additional requirements.,36.0,568,569.0,568.0,trubbish
+zoroark,60,105,60,120,60,105,dark,Empty,571,16,2,No additional requirements.,30.0,570,571.0,570.0,zorua
+cinccino,75,95,60,65,60,115,normal,Empty,573,19,2,To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,572,573.0,572.0,minccino
+gothorita,60,45,70,75,85,55,psychic,Empty,575,8,2,No additional requirements.,32.0,574,575.0,574.0,gothita
+gothitelle,70,55,95,95,110,65,psychic,Empty,576,8,2,No additional requirements.,41.0,575,576.0,575.0,gothorita
+duosion,65,40,50,125,60,30,psychic,Empty,578,8,2,No additional requirements.,32.0,577,578.0,577.0,solosis
+reuniclus,110,65,75,125,85,30,psychic,Empty,579,8,2,No additional requirements.,41.0,578,579.0,578.0,duosion
+swanna,75,87,63,87,63,98,water,flying,581,12,3,No additional requirements.,35.0,580,581.0,580.0,ducklett
+vanillish,51,65,65,80,75,59,ice,Empty,583,10,2,No additional requirements.,35.0,582,583.0,582.0,vanillite
+vanilluxe,71,95,85,110,95,79,ice,Empty,584,10,2,No additional requirements.,47.0,583,584.0,583.0,vanillish
+sawsbuck,80,100,70,60,70,95,normal,grass,586,19,6,No additional requirements.,34.0,585,586.0,585.0,deerling
+escavalier,70,135,105,60,105,20,bug,steel,589,18,9,To evolve this pokemon it needs to reach a minimum level and trade it with a Shelmet and be traded,0.0,588,589.0,588.0,karrablast
+amoonguss,114,85,70,85,80,30,grass,poison,591,6,1,No additional requirements.,39.0,590,591.0,590.0,foongus
+jellicent,100,60,70,85,105,60,water,ghost,593,12,17,No additional requirements.,40.0,592,593.0,592.0,frillish
+galvantula,70,77,60,97,60,108,bug,electric,596,18,13,No additional requirements.,36.0,595,596.0,595.0,joltik
+ferrothorn,74,94,131,54,116,20,grass,steel,598,6,9,No additional requirements.,40.0,597,598.0,597.0,ferroseed
+klang,60,80,95,70,85,50,steel,Empty,600,9,2,No additional requirements.,38.0,599,600.0,599.0,klink
+klinklang,60,100,115,70,85,90,steel,Empty,601,9,2,No additional requirements.,49.0,600,601.0,600.0,klang
+eelektrik,65,85,70,75,70,40,electric,Empty,603,13,2,No additional requirements.,39.0,602,603.0,602.0,tynamo
+eelektross,85,115,80,105,80,50,electric,Empty,604,13,2,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,603,604.0,603.0,eelektrik
+beheeyem,75,75,75,125,95,40,psychic,Empty,606,8,2,No additional requirements.,42.0,605,606.0,605.0,elgyem
+lampent,60,40,60,95,60,55,ghost,fire,608,17,14,No additional requirements.,41.0,607,608.0,607.0,litwick
+chandelure,60,55,90,145,90,80,ghost,fire,609,17,14,To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,608,609.0,608.0,lampent
+fraxure,66,117,70,40,50,67,dragon,Empty,611,15,2,No additional requirements.,38.0,610,611.0,610.0,axew
+haxorus,76,147,90,60,70,97,dragon,Empty,612,15,2,No additional requirements.,48.0,611,612.0,611.0,fraxure
+beartic,95,130,80,70,80,50,ice,Empty,614,10,2,No additional requirements.,37.0,613,614.0,613.0,cubchoo
+accelgor,80,70,40,100,60,145,bug,Empty,617,18,2,To evolve this pokemon it needs to reach a minimum level and trade it with a Karrablast and be traded,0.0,616,617.0,616.0,shelmet
+mienshao,65,125,60,95,60,105,fighting,Empty,620,7,2,No additional requirements.,50.0,619,620.0,619.0,mienfoo
+golurk,89,124,80,55,80,55,ground,ghost,623,4,17,No additional requirements.,43.0,622,623.0,622.0,golett
+bisharp,65,125,100,60,70,70,dark,steel,625,16,9,No additional requirements.,52.0,624,625.0,624.0,pawniard
+braviary,100,123,75,57,75,80,normal,flying,628,19,3,No additional requirements.,54.0,627,628.0,627.0,rufflet
+mandibuzz,110,65,105,55,95,80,dark,flying,630,16,3,No additional requirements.,54.0,629,630.0,629.0,vullaby
+zweilous,72,85,70,65,70,58,dark,dragon,634,16,15,No additional requirements.,50.0,633,634.0,633.0,deino
+hydreigon,92,105,90,125,90,98,dark,dragon,635,16,15,No additional requirements.,64.0,634,635.0,634.0,zweilous
+volcarona,85,60,65,135,105,100,bug,fire,637,18,14,No additional requirements.,59.0,636,637.0,636.0,larvesta
+quilladin,61,78,95,56,58,57,grass,Empty,651,6,2,No additional requirements.,16.0,650,651.0,650.0,chespin
+chesnaught,88,107,122,74,75,64,grass,fighting,652,6,7,No additional requirements.,36.0,651,652.0,651.0,quilladin
+braixen,59,59,58,90,70,73,fire,Empty,654,14,2,No additional requirements.,16.0,653,654.0,653.0,fennekin
+delphox,75,69,72,114,100,104,fire,psychic,655,14,8,No additional requirements.,36.0,654,655.0,654.0,braixen
+frogadier,54,63,52,83,56,97,water,Empty,657,12,2,No additional requirements.,16.0,656,657.0,656.0,froakie
+greninja,72,95,67,103,71,122,water,dark,658,12,16,No additional requirements.,36.0,657,658.0,657.0,frogadier
+diggersby,85,56,77,50,77,78,normal,ground,660,19,4,No additional requirements.,20.0,659,660.0,659.0,bunnelby
+fletchinder,62,73,55,56,52,84,fire,flying,662,14,3,No additional requirements.,17.0,661,662.0,661.0,fletchling
+talonflame,78,81,71,74,69,126,fire,flying,663,14,3,No additional requirements.,35.0,662,663.0,662.0,fletchinder
+spewpa,45,22,60,27,30,29,bug,Empty,665,18,2,No additional requirements.,9.0,664,665.0,664.0,scatterbug
+vivillon,80,52,50,90,50,89,bug,flying,666,18,3,No additional requirements.,12.0,665,666.0,665.0,spewpa
+pyroar,86,68,72,109,66,106,fire,normal,668,14,19,No additional requirements.,35.0,667,668.0,667.0,litleo
+floette,54,45,47,75,98,52,fairy,Empty,670,5,2,No additional requirements.,19.0,669,670.0,669.0,flabebe
+florges,78,65,68,112,154,75,fairy,Empty,671,5,2,To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,670,671.0,670.0,floette
+gogoat,123,100,62,97,81,68,grass,Empty,673,6,2,No additional requirements.,32.0,672,673.0,672.0,skiddo
+pangoro,95,124,78,69,71,58,fighting,dark,675,7,16,To evolve this pokemon it needs to reach a minimum level while having a(n) dark type party member ,32.0,674,675.0,674.0,pancham
+doublade,59,110,150,45,49,35,steel,ghost,680,9,17,No additional requirements.,35.0,679,680.0,679.0,honedge
+aromatisse,101,72,72,99,89,29,fairy,Empty,683,5,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) sachet,0.0,682,683.0,682.0,spritzee
+slurpuff,82,80,86,85,75,72,fairy,Empty,685,5,2,To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) whipped-dream,0.0,684,685.0,684.0,swirlix
+malamar,86,92,88,68,75,73,dark,psychic,687,16,8,To evolve this pokemon it needs to reach a minimum level turn the pokemon upside-down  ,30.0,686,687.0,686.0,inkay
+barbaracle,72,105,115,54,86,68,rock,water,689,11,12,No additional requirements.,39.0,688,689.0,688.0,binacle
+dragalge,65,75,90,97,123,44,poison,dragon,691,1,15,No additional requirements.,48.0,690,691.0,690.0,skrelp
+clawitzer,71,73,88,120,89,59,water,Empty,693,12,2,No additional requirements.,37.0,692,693.0,692.0,clauncher
+heliolisk,62,55,52,109,94,109,electric,normal,695,13,19,To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,694,695.0,694.0,helioptile
+tyrantrum,82,121,119,69,59,71,rock,dragon,697,11,15,To evolve this pokemon it needs to reach a minimum level during day ,39.0,696,697.0,696.0,tyrunt
+aurorus,123,77,72,99,92,58,rock,ice,699,11,10,To evolve this pokemon it needs to reach a minimum level during night ,39.0,698,699.0,698.0,amaura
+sylveon,95,65,65,110,130,60,fairy,Empty,700,5,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0  get its minimum affection to 2.0 and know a(n) fairy type move,0.0,133,700.0,133.0,eevee
+sliggoo,68,75,53,83,113,60,dragon,Empty,705,15,2,No additional requirements.,40.0,704,705.0,704.0,goomy
+goodra,90,100,70,110,150,80,dragon,Empty,706,15,2,To evolve this pokemon it needs to reach a minimum level during rain ,50.0,705,706.0,705.0,sliggoo
+trevenant,85,110,76,65,82,56,ghost,grass,709,17,6,To evolve this pokemon it needs to reach a minimum level and be traded,0.0,708,709.0,708.0,phantump
+avalugg,95,117,184,44,46,28,ice,Empty,713,10,2,No additional requirements.,37.0,712,713.0,712.0,bergmite
+noivern,85,70,80,97,80,123,flying,dragon,715,3,15,No additional requirements.,48.0,714,715.0,714.0,noibat
+dartrix,78,75,75,70,70,52,grass,flying,723,6,3,No additional requirements.,17.0,722,723.0,722.0,rowlet
+decidueye,78,107,75,100,100,70,grass,ghost,724,6,17,No additional requirements.,34.0,723,724.0,723.0,dartrix
+torracat,65,85,50,80,50,90,fire,Empty,726,14,2,No additional requirements.,17.0,725,726.0,725.0,litten
+incineroar,95,115,90,80,90,60,fire,dark,727,14,16,No additional requirements.,34.0,726,727.0,726.0,torracat
+brionne,60,69,69,91,81,50,water,Empty,729,12,2,No additional requirements.,17.0,728,729.0,728.0,popplio
+primarina,80,74,74,126,116,60,water,fairy,730,12,5,No additional requirements.,34.0,729,730.0,729.0,brionne
+trumbeak,55,85,50,40,50,75,normal,flying,732,19,3,No additional requirements.,14.0,731,732.0,731.0,pikipek
+toucannon,80,120,75,75,75,60,normal,flying,733,19,3,No additional requirements.,28.0,732,733.0,732.0,trumbeak
+gumshoos,88,110,60,55,60,45,normal,Empty,735,19,2,To evolve this pokemon it needs to reach a minimum level during day ,20.0,734,735.0,734.0,yungoos
+charjabug,57,82,95,55,75,36,bug,electric,737,18,13,No additional requirements.,20.0,736,737.0,736.0,grubbin
+vikavolt,77,70,90,145,75,43,bug,electric,738,18,13,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,737,738.0,737.0,charjabug
+crabominable,97,132,77,62,67,43,fighting,ice,740,7,10,To evolve this pokemon it needs to reach a minimum level  while at mount-lanakila,0.0,739,740.0,739.0,crabrawler
+ribombee,60,55,60,95,70,124,bug,fairy,743,18,5,No additional requirements.,25.0,742,743.0,742.0,cutiefly
+toxapex,50,63,152,53,142,35,poison,water,748,1,12,No additional requirements.,38.0,747,748.0,747.0,mareanie
+mudsdale,100,125,100,55,85,35,ground,Empty,750,4,2,No additional requirements.,30.0,749,750.0,749.0,mudbray
+araquanid,68,70,92,50,132,42,water,bug,752,12,18,No additional requirements.,22.0,751,752.0,751.0,dewpider
+lurantis,70,105,90,80,90,45,grass,Empty,754,6,2,To evolve this pokemon it needs to reach a minimum level during day ,34.0,753,754.0,753.0,fomantis
+shiinotic,60,45,80,90,100,30,grass,fairy,756,6,5,No additional requirements.,24.0,755,756.0,755.0,morelull
+salazzle,68,64,60,111,60,117,poison,fire,758,1,14,To evolve this pokemon it needs to reach a minimum level  and it needs to be Female ,33.0,757,758.0,757.0,salandit
+bewear,120,125,80,55,60,60,normal,fighting,760,19,7,No additional requirements.,27.0,759,760.0,759.0,stufful
+steenee,52,40,48,40,48,62,grass,Empty,762,6,2,No additional requirements.,18.0,761,762.0,761.0,bounsweet
+tsareena,72,120,98,50,98,72,grass,Empty,763,6,2,To evolve this pokemon it needs to reach a minimum level  and know the stomp move,0.0,762,763.0,762.0,steenee
+golisopod,75,125,140,60,90,40,bug,water,768,18,12,No additional requirements.,30.0,767,768.0,767.0,wimpod
+palossand,85,75,110,100,75,35,ghost,ground,770,17,4,No additional requirements.,42.0,769,770.0,769.0,sandygast
+silvally,95,95,95,95,95,95,normal,Empty,773,19,2,To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,772,773.0,772.0,type-null
+hakamo-o,55,75,90,65,70,65,dragon,fighting,783,15,7,No additional requirements.,35.0,782,783.0,782.0,jangmo-o
+kommo-o,75,110,125,100,105,85,dragon,fighting,784,15,7,No additional requirements.,45.0,783,784.0,783.0,hakamo-o
+cosmoem,43,29,131,29,131,37,psychic,Empty,790,8,2,No additional requirements.,43.0,789,790.0,789.0,cosmog
+solgaleo,137,137,107,113,89,97,psychic,steel,791,8,9,No additional requirements.,53.0,790,791.0,790.0,cosmoem
+lunala,137,113,89,137,107,97,psychic,ghost,792,8,17,No additional requirements.,53.0,790,792.0,790.0,cosmoem
+naganadel,73,73,73,127,73,121,poison,dragon,804,1,15,To evolve this pokemon it needs to reach a minimum level  and know the dragon-pulse move,0.0,803,804.0,803.0,poipole
+thwackey,70,85,70,55,60,80,grass,Empty,811,6,2,No additional requirements.,16.0,810,811.0,810.0,grookey
+rillaboom,100,125,90,60,70,85,grass,Empty,812,6,2,No additional requirements.,35.0,811,812.0,811.0,thwackey
+raboot,65,86,60,55,60,94,fire,Empty,814,14,2,No additional requirements.,16.0,813,814.0,813.0,scorbunny
+cinderace,80,116,75,65,75,119,fire,Empty,815,14,2,No additional requirements.,35.0,814,815.0,814.0,raboot
+drizzile,65,60,55,95,55,90,water,Empty,817,12,2,No additional requirements.,16.0,816,817.0,816.0,sobble
+inteleon,70,85,65,125,65,120,water,Empty,818,12,2,No additional requirements.,35.0,817,818.0,817.0,drizzile
+greedent,120,95,95,55,75,20,normal,Empty,820,19,2,No additional requirements.,24.0,819,820.0,819.0,skwovet
+corvisquire,68,67,55,43,55,77,flying,Empty,822,3,2,No additional requirements.,18.0,821,822.0,821.0,rookidee
+corviknight,98,87,105,53,85,67,flying,steel,823,3,9,No additional requirements.,38.0,822,823.0,822.0,corvisquire
+dottler,50,35,80,50,90,30,bug,psychic,825,18,8,No additional requirements.,10.0,824,825.0,824.0,blipbug
+orbeetle,60,45,110,80,120,90,bug,psychic,826,18,8,No additional requirements.,30.0,825,826.0,825.0,dottler
+thievul,70,58,58,87,92,90,dark,Empty,828,16,2,No additional requirements.,18.0,827,828.0,827.0,nickit
+eldegoss,60,50,90,80,120,60,grass,Empty,830,6,2,No additional requirements.,20.0,829,830.0,829.0,gossifleur
+dubwool,72,80,100,60,90,88,normal,Empty,832,19,2,No additional requirements.,24.0,831,832.0,831.0,wooloo
+drednaw,90,115,90,48,68,74,water,rock,834,12,11,No additional requirements.,22.0,833,834.0,833.0,chewtle
+boltund,69,90,60,90,60,121,electric,Empty,836,13,2,No additional requirements.,25.0,835,836.0,835.0,yamper
+carkol,80,60,90,60,70,50,rock,fire,838,11,14,No additional requirements.,18.0,837,838.0,837.0,rolycoly
+coalossal,110,80,120,80,90,30,rock,fire,839,11,14,No additional requirements.,34.0,838,839.0,838.0,carkol
+flapple,70,110,80,95,60,70,grass,dragon,841,6,15,To evolve this pokemon it needs to reach a minimum level and have a(n) tart-apple used on it ,0.0,840,841.0,840.0,applin
+appletun,110,85,80,100,80,30,grass,dragon,842,6,15,To evolve this pokemon it needs to reach a minimum level and have a(n) sweet-apple used on it ,0.0,840,842.0,840.0,applin
+sandaconda,72,107,125,65,70,71,ground,Empty,844,4,2,No additional requirements.,36.0,843,844.0,843.0,silicobra
+barraskewda,61,123,60,60,50,136,water,Empty,847,12,2,No additional requirements.,26.0,846,847.0,846.0,arrokuda
+centiskorch,100,115,65,90,90,65,fire,bug,851,14,18,No additional requirements.,28.0,850,851.0,850.0,sizzlipede
+grapploct,80,118,90,70,80,42,fighting,Empty,853,7,2,To evolve this pokemon it needs to reach a minimum level  and know the taunt move,0.0,852,853.0,852.0,clobbopus
+polteageist,60,65,65,134,114,70,ghost,Empty,855,17,2,To evolve this pokemon it needs to reach a minimum level and have a(n) cracked-pot used on it ,0.0,854,855.0,854.0,sinistea
+hattrem,57,40,65,86,73,49,psychic,Empty,857,8,2,No additional requirements.,32.0,856,857.0,856.0,hatenna
+hatterene,57,90,95,136,103,29,psychic,fairy,858,8,5,No additional requirements.,42.0,857,858.0,857.0,hattrem
+morgrem,65,60,45,75,55,70,dark,fairy,860,16,5,No additional requirements.,32.0,859,860.0,859.0,impidimp
+grimmsnarl,95,120,65,95,75,60,dark,fairy,861,16,5,No additional requirements.,42.0,860,861.0,860.0,morgrem
+obstagoon,93,90,101,60,81,95,dark,normal,862,16,19,To evolve this pokemon it needs to reach a minimum level during night ,35.0,264,862.0,264.0,linoone
+perrserker,70,110,100,50,60,50,steel,Empty,863,9,2,No additional requirements.,28.0,52,863.0,52.0,meowth
+cursola,60,95,50,145,130,30,ghost,Empty,864,17,2,No additional requirements.,38.0,222,864.0,222.0,corsola
+sirfetchd,62,135,95,68,82,65,fighting,Empty,865,7,2,To evolve this pokemon it needs to reach a minimum level and do three critical hits in the same battle with this pokemon,0.0,83,865.0,83.0,farfetchd
+mr-rime,80,85,75,110,100,70,ice,psychic,866,10,8,No additional requirements.,42.0,122,866.0,122.0,mr-mime
+runerigus,58,95,145,50,105,30,ground,ghost,867,4,17,To evolve this pokemon it needs to reach a minimum level and receive damage,0.0,562,867.0,562.0,yamask
+alcremie,65,60,75,110,121,64,fairy,Empty,869,5,2,To evolve this pokemon it needs to reach a minimum level and spin,0.0,868,869.0,868.0,milcery
+frosmoth,70,65,60,125,90,65,ice,bug,873,10,18,To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 160.0 ,0.0,872,873.0,872.0,snom
+copperajah,122,130,69,80,69,30,steel,Empty,879,9,2,No additional requirements.,34.0,878,879.0,878.0,cufant
+drakloak,68,80,50,60,50,102,dragon,ghost,886,15,17,No additional requirements.,50.0,885,886.0,885.0,dreepy
+dragapult,88,120,75,100,75,142,dragon,ghost,887,15,17,No additional requirements.,60.0,886,887.0,886.0,drakloak
+wyrdeer,103,105,72,105,75,65,normal,psychic,899,19,8,To evolve this pokemon it needs to reach a minimum level and use or know an agile-style move and know the psyshield-bash move,0.0,234,899.0,234.0,stantler
+kleavor,70,135,95,45,70,85,bug,rock,900,18,11,To evolve this pokemon it needs to reach a minimum level and have a(n) black-augurite used on it ,0.0,123,900.0,123.0,scyther
+ursaluna,130,140,105,45,80,50,ground,normal,901,4,19,To evolve this pokemon it needs to reach a minimum level during a full moon and have a(n) peat-block used on it ,0.0,217,901.0,217.0,ursaring
+sneasler,80,130,60,40,80,120,fighting,poison,903,7,1,To evolve this pokemon it needs to reach a minimum level during day  while holding a(n) razor-claw,0.0,215,903.0,215.0,sneasel
+overqwil,85,115,95,65,65,85,dark,poison,904,16,1,To evolve this pokemon it needs to reach a minimum level and use or know a strong-style move and know the barb-barrage move,0.0,211,904.0,211.0,qwilfish
+floragato,61,80,63,60,63,83,grass,Empty,907,6,2,No additional requirements.,16.0,906,907.0,906.0,sprigatito
+meowscarada,76,110,70,81,70,123,grass,dark,908,6,16,No additional requirements.,36.0,907,908.0,907.0,floragato
+crocalor,81,55,78,90,58,49,fire,Empty,910,14,2,No additional requirements.,16.0,909,910.0,909.0,fuecoco
+skeledirge,104,75,100,110,75,66,fire,ghost,911,14,17,No additional requirements.,36.0,910,911.0,910.0,crocalor
+quaxwell,70,85,65,65,60,65,water,Empty,913,12,2,No additional requirements.,16.0,912,913.0,912.0,quaxly
+quaquaval,85,120,80,85,75,85,water,fighting,914,12,7,No additional requirements.,36.0,913,914.0,913.0,quaxwell
+oinkologne,110,100,75,59,80,65,normal,Empty,916,19,2,No additional requirements.,18.0,915,916.0,915.0,lechonk
+spidops,60,79,92,52,86,35,bug,Empty,918,18,2,No additional requirements.,15.0,917,918.0,917.0,tarountula
+lokix,71,102,78,52,55,92,bug,dark,920,18,16,No additional requirements.,24.0,919,920.0,919.0,nymble
+pawmo,60,75,40,50,40,85,electric,fighting,922,13,7,No additional requirements.,18.0,921,922.0,921.0,pawmi
+pawmot,70,115,70,70,60,105,electric,fighting,923,13,7,No additional requirements.,0.0,922,923.0,922.0,pawmo
+maushold,74,75,70,65,75,111,normal,Empty,925,19,2,No additional requirements.,25.0,924,925.0,924.0,tandemaus
+dachsbun,57,80,115,50,80,95,fairy,Empty,927,5,2,No additional requirements.,26.0,926,927.0,926.0,fidough
+dolliv,52,53,60,78,78,33,grass,normal,929,6,19,No additional requirements.,25.0,928,929.0,928.0,smoliv
+arboliva,78,69,90,125,109,39,grass,normal,930,6,19,No additional requirements.,35.0,929,930.0,929.0,dolliv
+naclstack,60,60,100,35,65,35,rock,Empty,933,11,2,No additional requirements.,24.0,932,933.0,932.0,nacli
+garganacl,100,100,130,45,90,35,rock,Empty,934,11,2,No additional requirements.,38.0,933,934.0,933.0,naclstack
+armarouge,85,60,100,125,80,75,fire,psychic,936,14,8,To evolve this pokemon it needs to reach a minimum level and have a(n) auspicious-armor used on it ,0.0,935,936.0,935.0,charcadet
+ceruledge,75,125,80,60,100,85,fire,ghost,937,14,17,To evolve this pokemon it needs to reach a minimum level and have a(n) malicious-armor used on it ,0.0,935,937.0,935.0,charcadet
+bellibolt,109,64,91,103,83,45,electric,Empty,939,13,2,To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,938,939.0,938.0,tadbulb
+kilowattrel,70,70,60,105,60,125,electric,flying,941,13,3,No additional requirements.,25.0,940,941.0,940.0,wattrel
+mabosstiff,80,120,90,60,70,85,dark,Empty,943,16,2,No additional requirements.,30.0,942,943.0,942.0,maschiff
+grafaiai,63,95,65,80,72,110,poison,normal,945,1,19,No additional requirements.,28.0,944,945.0,944.0,shroodle
+brambleghast,55,115,70,80,70,90,grass,ghost,947,6,17,No additional requirements.,0.0,946,947.0,946.0,bramblin
+toedscruel,80,70,65,80,120,100,ground,grass,949,4,6,No additional requirements.,30.0,948,949.0,948.0,toedscool
+scovillain,65,108,65,108,65,75,grass,fire,952,6,14,To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,951,952.0,951.0,capsakid
+rabsca,75,50,85,115,100,45,bug,psychic,954,18,8,No additional requirements.,0.0,953,954.0,953.0,rellor
+espathra,95,60,60,101,60,105,psychic,Empty,956,8,2,No additional requirements.,35.0,955,956.0,955.0,flittle
+tinkatuff,65,55,55,45,82,78,fairy,steel,958,5,9,No additional requirements.,24.0,957,958.0,957.0,tinkatink
+tinkaton,85,75,77,70,105,94,fairy,steel,959,5,9,No additional requirements.,38.0,958,959.0,958.0,tinkatuff
+wugtrio,35,100,50,50,70,120,water,Empty,961,12,2,No additional requirements.,26.0,960,961.0,960.0,wiglett
+palafin,100,70,72,53,62,100,water,Empty,964,12,2,No additional requirements.,38.0,963,964.0,963.0,finizen
+revavroom,80,119,90,54,67,90,steel,poison,966,9,1,No additional requirements.,40.0,965,966.0,965.0,varoom
+glimmora,83,55,90,130,81,86,rock,poison,970,11,1,No additional requirements.,35.0,969,970.0,969.0,glimmet
+houndstone,72,101,100,50,97,68,ghost,Empty,972,17,2,To evolve this pokemon it needs to reach a minimum level during night ,30.0,971,972.0,971.0,greavard
+cetitan,170,113,65,45,55,73,ice,Empty,975,10,2,To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,0.0,974,975.0,974.0,cetoddle
+annihilape,110,115,80,50,90,90,fighting,ghost,979,7,17,No additional requirements.,0.0,57,979.0,57.0,primeape
+clodsire,130,75,60,45,100,20,poison,ground,980,1,4,No additional requirements.,20.0,194,980.0,194.0,wooper
+farigiraf,120,90,70,110,70,60,normal,psychic,981,19,8,To evolve this pokemon it needs to reach a minimum level  and know the twin-beam move,0.0,203,981.0,203.0,girafarig
+dudunsparce,125,100,80,85,75,55,normal,Empty,982,19,2,To evolve this pokemon it needs to reach a minimum level  and know the hyper-drill move,0.0,206,982.0,206.0,dunsparce
+kingambit,100,135,120,60,85,50,dark,steel,983,16,9,No additional requirements.,0.0,625,983.0,625.0,bisharp
+arctibax,90,95,66,45,65,62,dragon,ice,997,15,10,No additional requirements.,35.0,996,997.0,996.0,frigibax
+baxcalibur,115,145,92,75,86,87,dragon,ice,998,15,10,No additional requirements.,54.0,997,998.0,997.0,arctibax
+gholdengo,87,60,95,133,91,84,steel,ghost,1000,9,17,No additional requirements.,0.0,999,1000.0,999.0,gimmighoul
+dipplin,80,80,110,95,80,40,grass,dragon,1011,6,15,No additional requirements.,0.0,840,1011.0,840.0,applin
+sinistcha,71,60,106,121,80,70,grass,ghost,1013,6,17,No additional requirements.,0.0,1012,1013.0,1012.0,poltchageist
+archaludon,90,105,130,125,65,85,steel,dragon,1018,9,15,No additional requirements.,0.0,884,1018.0,884.0,duraludon
+hydrapple,106,80,110,120,80,44,grass,dragon,1019,6,15,No additional requirements.,0.0,1011,1019.0,1011.0,dipplin

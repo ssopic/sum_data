@@ -1,0 +1,476 @@
+evolution_requirements,min_level,evolving_from_id,evolving_to_id
+No additional requirements.,16.0,1,2
+No additional requirements.,32.0,2,3
+No additional requirements.,16.0,4,5
+No additional requirements.,36.0,5,6
+No additional requirements.,16.0,7,8
+No additional requirements.,36.0,8,9
+No additional requirements.,7.0,10,11
+No additional requirements.,10.0,11,12
+No additional requirements.,7.0,13,14
+No additional requirements.,10.0,14,15
+No additional requirements.,18.0,16,17
+No additional requirements.,36.0,17,18
+To evolve this pokemon it needs to reach a minimum level during night ,20.0,19,20
+No additional requirements.,20.0,21,22
+No additional requirements.,22.0,23,24
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 220.0 ,0.0,172,25
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,25,26
+To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,22.0,27,28
+No additional requirements.,16.0,29,30
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,30,31
+No additional requirements.,16.0,32,33
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,33,34
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,173,35
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,35,36
+To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,0.0,37,38
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,174,39
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,39,40
+No additional requirements.,22.0,41,42
+No additional requirements.,21.0,43,44
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,44,45
+To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,44,182
+No additional requirements.,24.0,46,47
+No additional requirements.,31.0,48,49
+No additional requirements.,26.0,50,51
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,28.0,52,53
+No additional requirements.,28.0,52,863
+No additional requirements.,33.0,54,55
+No additional requirements.,28.0,56,57
+To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,58,59
+No additional requirements.,25.0,60,61
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,61,62
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) kings-rock,0.0,61,186
+No additional requirements.,16.0,63,64
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,64,65
+No additional requirements.,28.0,66,67
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,67,68
+No additional requirements.,21.0,69,70
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,70,71
+No additional requirements.,30.0,72,73
+No additional requirements.,25.0,74,75
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,75,76
+No additional requirements.,40.0,77,78
+To evolve this pokemon it needs to reach a minimum level and have a(n) galarica-cuff used on it ,37.0,79,80
+To evolve this pokemon it needs to reach a minimum level and have a(n) galarica-wreath used on it  while holding a(n) kings-rock,0.0,79,199
+No additional requirements.,30.0,81,82
+No additional requirements.,31.0,84,85
+No additional requirements.,34.0,86,87
+No additional requirements.,38.0,88,89
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,90,91
+No additional requirements.,25.0,92,93
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,93,94
+No additional requirements.,26.0,96,97
+No additional requirements.,28.0,98,99
+No additional requirements.,30.0,100,101
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,102,103
+To evolve this pokemon it needs to reach a minimum level during night ,28.0,104,105
+To evolve this pokemon it needs to reach a minimum level with Attack > Defense ,20.0,236,106
+To evolve this pokemon it needs to reach a minimum level with Attack < Defense ,20.0,236,107
+To evolve this pokemon it needs to reach a minimum level with Attack = Defense ,20.0,236,237
+No additional requirements.,35.0,109,110
+No additional requirements.,42.0,111,112
+To evolve this pokemon it needs to reach a minimum level during day  while holding a(n) oval-stone,0.0,440,113
+No additional requirements.,32.0,116,117
+No additional requirements.,33.0,118,119
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,120,121
+To evolve this pokemon it needs to reach a minimum level  and know the mimic move,0.0,439,122
+No additional requirements.,30.0,238,124
+No additional requirements.,30.0,239,125
+No additional requirements.,30.0,240,126
+No additional requirements.,20.0,129,130
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,133,134
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,133,135
+To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,133,136
+To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,133,196
+To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 160.0 ,0.0,133,197
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it  while at kalos-route-20,0.0,133,470
+To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it  while at frost-cavern,0.0,133,471
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0  get its minimum affection to 2.0 and know a(n) fairy type move,0.0,133,700
+No additional requirements.,40.0,138,139
+No additional requirements.,40.0,140,141
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,446,143
+No additional requirements.,30.0,147,148
+No additional requirements.,55.0,148,149
+No additional requirements.,16.0,152,153
+No additional requirements.,32.0,153,154
+No additional requirements.,14.0,155,156
+No additional requirements.,36.0,156,157
+No additional requirements.,18.0,158,159
+No additional requirements.,30.0,159,160
+No additional requirements.,15.0,161,162
+No additional requirements.,20.0,163,164
+No additional requirements.,18.0,165,166
+No additional requirements.,22.0,167,168
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,42,169
+No additional requirements.,27.0,170,171
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,175,176
+No additional requirements.,25.0,177,178
+No additional requirements.,15.0,179,180
+No additional requirements.,30.0,180,181
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,298,183
+No additional requirements.,18.0,183,184
+To evolve this pokemon it needs to reach a minimum level  and know the mimic move,0.0,438,185
+No additional requirements.,18.0,187,188
+No additional requirements.,27.0,188,189
+To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,191,192
+No additional requirements.,20.0,194,195
+No additional requirements.,20.0,194,980
+No additional requirements.,15.0,360,202
+No additional requirements.,31.0,204,205
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) metal-coat,0.0,95,208
+No additional requirements.,23.0,209,210
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) metal-coat,0.0,123,212
+To evolve this pokemon it needs to reach a minimum level and have a(n) black-augurite used on it ,0.0,123,900
+No additional requirements.,30.0,216,217
+No additional requirements.,38.0,218,219
+No additional requirements.,33.0,220,221
+No additional requirements.,25.0,223,224
+To evolve this pokemon it needs to reach a minimum level while having a remoraid in your party ,0.0,458,226
+No additional requirements.,24.0,228,229
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) dragon-scale,0.0,117,230
+No additional requirements.,25.0,231,232
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) up-grade,0.0,137,233
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,113,242
+No additional requirements.,30.0,246,247
+No additional requirements.,55.0,247,248
+No additional requirements.,16.0,252,253
+No additional requirements.,36.0,253,254
+No additional requirements.,16.0,255,256
+No additional requirements.,36.0,256,257
+No additional requirements.,16.0,258,259
+No additional requirements.,36.0,259,260
+No additional requirements.,18.0,261,262
+No additional requirements.,20.0,263,264
+No additional requirements.,7.0,265,266
+No additional requirements.,7.0,265,268
+No additional requirements.,10.0,266,267
+No additional requirements.,10.0,268,269
+No additional requirements.,14.0,270,271
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,271,272
+No additional requirements.,14.0,273,274
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,274,275
+No additional requirements.,22.0,276,277
+No additional requirements.,25.0,278,279
+No additional requirements.,20.0,280,281
+No additional requirements.,30.0,281,282
+To evolve this pokemon it needs to reach a minimum level and have a(n) dawn-stone used on it  and it needs to be Male ,0.0,281,475
+No additional requirements.,22.0,283,284
+No additional requirements.,23.0,285,286
+No additional requirements.,18.0,287,288
+No additional requirements.,36.0,288,289
+No additional requirements.,20.0,290,291
+To evolve this pokemon it needs to reach a minimum level and shed,0.0,290,292
+No additional requirements.,20.0,293,294
+No additional requirements.,40.0,294,295
+No additional requirements.,24.0,296,297
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,300,301
+No additional requirements.,32.0,304,305
+No additional requirements.,42.0,305,306
+No additional requirements.,37.0,307,308
+No additional requirements.,26.0,309,310
+To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,406,315
+No additional requirements.,26.0,316,317
+No additional requirements.,30.0,318,319
+No additional requirements.,40.0,320,321
+No additional requirements.,33.0,322,323
+No additional requirements.,32.0,325,326
+No additional requirements.,35.0,328,329
+No additional requirements.,45.0,329,330
+No additional requirements.,32.0,331,332
+No additional requirements.,35.0,333,334
+No additional requirements.,30.0,339,340
+No additional requirements.,30.0,341,342
+No additional requirements.,36.0,343,344
+No additional requirements.,40.0,345,346
+No additional requirements.,40.0,347,348
+To evolve this pokemon it needs to reach a minimum level  and get its beauty level to minimum 170.0 while holding a(n) prism-scale,0.0,349,350
+No additional requirements.,37.0,353,354
+No additional requirements.,37.0,355,356
+To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 220.0 ,0.0,433,358
+No additional requirements.,42.0,361,362
+To evolve this pokemon it needs to reach a minimum level and have a(n) dawn-stone used on it  and it needs to be Female ,0.0,361,478
+No additional requirements.,32.0,363,364
+No additional requirements.,44.0,364,365
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) deep-sea-tooth,0.0,366,367
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) deep-sea-scale,0.0,366,368
+No additional requirements.,30.0,371,372
+No additional requirements.,50.0,372,373
+No additional requirements.,20.0,374,375
+No additional requirements.,45.0,375,376
+No additional requirements.,18.0,387,388
+No additional requirements.,32.0,388,389
+No additional requirements.,14.0,390,391
+No additional requirements.,36.0,391,392
+No additional requirements.,16.0,393,394
+No additional requirements.,36.0,394,395
+No additional requirements.,14.0,396,397
+No additional requirements.,34.0,397,398
+No additional requirements.,15.0,399,400
+No additional requirements.,10.0,401,402
+No additional requirements.,15.0,403,404
+No additional requirements.,30.0,404,405
+To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,315,407
+No additional requirements.,30.0,408,409
+No additional requirements.,30.0,410,411
+To evolve this pokemon it needs to reach a minimum level  and it needs to be Male ,20.0,412,414
+To evolve this pokemon it needs to reach a minimum level  and it needs to be Female ,21.0,415,416
+No additional requirements.,26.0,418,419
+No additional requirements.,25.0,420,421
+No additional requirements.,30.0,422,423
+To evolve this pokemon it needs to reach a minimum level  and know the double-hit move,0.0,190,424
+No additional requirements.,28.0,425,426
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,427,428
+To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,200,429
+To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,198,430
+No additional requirements.,38.0,431,432
+No additional requirements.,34.0,434,435
+No additional requirements.,33.0,436,437
+No additional requirements.,24.0,443,444
+No additional requirements.,48.0,444,445
+To evolve this pokemon it needs to reach a minimum level during day while its happiness is at minimum 160.0 ,0.0,447,448
+No additional requirements.,34.0,449,450
+No additional requirements.,40.0,451,452
+No additional requirements.,37.0,453,454
+No additional requirements.,31.0,456,457
+No additional requirements.,40.0,459,460
+To evolve this pokemon it needs to reach a minimum level during night  while holding a(n) razor-claw,0.0,215,461
+To evolve this pokemon it needs to reach a minimum level during day  while holding a(n) razor-claw,0.0,215,903
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it  while at kalos-route-13,0.0,82,462
+To evolve this pokemon it needs to reach a minimum level  and know the rollout move,0.0,108,463
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) protector,0.0,112,464
+To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,114,465
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) electirizer,0.0,125,466
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) magmarizer,0.0,126,467
+To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,176,468
+To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,193,469
+To evolve this pokemon it needs to reach a minimum level during night  while holding a(n) razor-fang,0.0,207,472
+To evolve this pokemon it needs to reach a minimum level  and know the ancient-power move,0.0,221,473
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) dubious-disc,0.0,233,474
+To evolve this pokemon it needs to reach a minimum level  while at kalos-route-13,0.0,299,476
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) reaper-cloth,0.0,356,477
+No additional requirements.,0.0,489,490
+No additional requirements.,17.0,495,496
+No additional requirements.,36.0,496,497
+No additional requirements.,17.0,498,499
+No additional requirements.,36.0,499,500
+No additional requirements.,17.0,501,502
+No additional requirements.,36.0,502,503
+No additional requirements.,20.0,504,505
+No additional requirements.,16.0,506,507
+No additional requirements.,32.0,507,508
+No additional requirements.,20.0,509,510
+To evolve this pokemon it needs to reach a minimum level and have a(n) leaf-stone used on it ,0.0,511,512
+To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,513,514
+To evolve this pokemon it needs to reach a minimum level and have a(n) water-stone used on it ,0.0,515,516
+To evolve this pokemon it needs to reach a minimum level and have a(n) moon-stone used on it ,0.0,517,518
+No additional requirements.,21.0,519,520
+No additional requirements.,32.0,520,521
+No additional requirements.,27.0,522,523
+No additional requirements.,25.0,524,525
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,525,526
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,527,528
+No additional requirements.,31.0,529,530
+No additional requirements.,25.0,532,533
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,533,534
+No additional requirements.,25.0,535,536
+No additional requirements.,36.0,536,537
+No additional requirements.,20.0,540,541
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 220.0 ,0.0,541,542
+No additional requirements.,22.0,543,544
+No additional requirements.,30.0,544,545
+To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,546,547
+To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,548,549
+No additional requirements.,29.0,551,552
+No additional requirements.,40.0,552,553
+No additional requirements.,34.0,557,558
+No additional requirements.,39.0,559,560
+No additional requirements.,34.0,562,563
+To evolve this pokemon it needs to reach a minimum level and receive damage,0.0,562,867
+No additional requirements.,37.0,564,565
+No additional requirements.,37.0,566,567
+No additional requirements.,36.0,568,569
+No additional requirements.,30.0,570,571
+To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,572,573
+No additional requirements.,32.0,574,575
+No additional requirements.,41.0,575,576
+No additional requirements.,32.0,577,578
+No additional requirements.,41.0,578,579
+No additional requirements.,35.0,580,581
+No additional requirements.,35.0,582,583
+No additional requirements.,47.0,583,584
+No additional requirements.,34.0,585,586
+To evolve this pokemon it needs to reach a minimum level and trade it with a Shelmet and be traded,0.0,588,589
+No additional requirements.,39.0,590,591
+No additional requirements.,40.0,592,593
+No additional requirements.,36.0,595,596
+No additional requirements.,40.0,597,598
+No additional requirements.,38.0,599,600
+No additional requirements.,49.0,600,601
+No additional requirements.,39.0,602,603
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,603,604
+No additional requirements.,42.0,605,606
+No additional requirements.,41.0,607,608
+To evolve this pokemon it needs to reach a minimum level and have a(n) dusk-stone used on it ,0.0,608,609
+No additional requirements.,38.0,610,611
+No additional requirements.,48.0,611,612
+No additional requirements.,37.0,613,614
+To evolve this pokemon it needs to reach a minimum level and trade it with a Karrablast and be traded,0.0,616,617
+No additional requirements.,50.0,619,620
+No additional requirements.,43.0,622,623
+No additional requirements.,52.0,624,625
+No additional requirements.,54.0,627,628
+No additional requirements.,54.0,629,630
+No additional requirements.,50.0,633,634
+No additional requirements.,64.0,634,635
+No additional requirements.,59.0,636,637
+No additional requirements.,16.0,650,651
+No additional requirements.,36.0,651,652
+No additional requirements.,16.0,653,654
+No additional requirements.,36.0,654,655
+No additional requirements.,16.0,656,657
+No additional requirements.,36.0,657,658
+No additional requirements.,20.0,659,660
+No additional requirements.,17.0,661,662
+No additional requirements.,35.0,662,663
+No additional requirements.,9.0,664,665
+No additional requirements.,12.0,665,666
+No additional requirements.,35.0,667,668
+No additional requirements.,19.0,669,670
+To evolve this pokemon it needs to reach a minimum level and have a(n) shiny-stone used on it ,0.0,670,671
+No additional requirements.,32.0,672,673
+To evolve this pokemon it needs to reach a minimum level while having a(n) dark type party member ,32.0,674,675
+No additional requirements.,35.0,679,680
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) sachet,0.0,682,683
+To evolve this pokemon it needs to reach a minimum level and be traded while holding a(n) whipped-dream,0.0,684,685
+To evolve this pokemon it needs to reach a minimum level turn the pokemon upside-down  ,30.0,686,687
+No additional requirements.,39.0,688,689
+No additional requirements.,48.0,690,691
+No additional requirements.,37.0,692,693
+To evolve this pokemon it needs to reach a minimum level and have a(n) sun-stone used on it ,0.0,694,695
+To evolve this pokemon it needs to reach a minimum level during day ,39.0,696,697
+To evolve this pokemon it needs to reach a minimum level during night ,39.0,698,699
+No additional requirements.,40.0,704,705
+To evolve this pokemon it needs to reach a minimum level during rain ,50.0,705,706
+To evolve this pokemon it needs to reach a minimum level and be traded,0.0,708,709
+No additional requirements.,37.0,712,713
+No additional requirements.,48.0,714,715
+No additional requirements.,17.0,722,723
+No additional requirements.,34.0,723,724
+No additional requirements.,17.0,725,726
+No additional requirements.,34.0,726,727
+No additional requirements.,17.0,728,729
+No additional requirements.,34.0,729,730
+No additional requirements.,14.0,731,732
+No additional requirements.,28.0,732,733
+To evolve this pokemon it needs to reach a minimum level during day ,20.0,734,735
+No additional requirements.,20.0,736,737
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,737,738
+To evolve this pokemon it needs to reach a minimum level  while at mount-lanakila,0.0,739,740
+No additional requirements.,25.0,742,743
+No additional requirements.,38.0,747,748
+No additional requirements.,30.0,749,750
+No additional requirements.,22.0,751,752
+To evolve this pokemon it needs to reach a minimum level during day ,34.0,753,754
+No additional requirements.,24.0,755,756
+To evolve this pokemon it needs to reach a minimum level  and it needs to be Female ,33.0,757,758
+No additional requirements.,27.0,759,760
+No additional requirements.,18.0,761,762
+To evolve this pokemon it needs to reach a minimum level  and know the stomp move,0.0,762,763
+No additional requirements.,30.0,767,768
+No additional requirements.,42.0,769,770
+To evolve this pokemon it needs to reach a minimum level while its happiness is at minimum 160.0 ,0.0,772,773
+No additional requirements.,35.0,782,783
+No additional requirements.,45.0,783,784
+No additional requirements.,43.0,789,790
+No additional requirements.,53.0,790,791
+No additional requirements.,53.0,790,792
+To evolve this pokemon it needs to reach a minimum level  and know the dragon-pulse move,0.0,803,804
+No additional requirements.,16.0,810,811
+No additional requirements.,35.0,811,812
+No additional requirements.,16.0,813,814
+No additional requirements.,35.0,814,815
+No additional requirements.,16.0,816,817
+No additional requirements.,35.0,817,818
+No additional requirements.,24.0,819,820
+No additional requirements.,18.0,821,822
+No additional requirements.,38.0,822,823
+No additional requirements.,10.0,824,825
+No additional requirements.,30.0,825,826
+No additional requirements.,18.0,827,828
+No additional requirements.,20.0,829,830
+No additional requirements.,24.0,831,832
+No additional requirements.,22.0,833,834
+No additional requirements.,25.0,835,836
+No additional requirements.,18.0,837,838
+No additional requirements.,34.0,838,839
+To evolve this pokemon it needs to reach a minimum level and have a(n) tart-apple used on it ,0.0,840,841
+To evolve this pokemon it needs to reach a minimum level and have a(n) sweet-apple used on it ,0.0,840,842
+No additional requirements.,0.0,840,1011
+No additional requirements.,36.0,843,844
+No additional requirements.,26.0,846,847
+No additional requirements.,28.0,850,851
+To evolve this pokemon it needs to reach a minimum level  and know the taunt move,0.0,852,853
+To evolve this pokemon it needs to reach a minimum level and have a(n) cracked-pot used on it ,0.0,854,855
+No additional requirements.,32.0,856,857
+No additional requirements.,42.0,857,858
+No additional requirements.,32.0,859,860
+No additional requirements.,42.0,860,861
+To evolve this pokemon it needs to reach a minimum level during night ,35.0,264,862
+No additional requirements.,38.0,222,864
+To evolve this pokemon it needs to reach a minimum level and do three critical hits in the same battle with this pokemon,0.0,83,865
+No additional requirements.,42.0,122,866
+To evolve this pokemon it needs to reach a minimum level and spin,0.0,868,869
+To evolve this pokemon it needs to reach a minimum level during night while its happiness is at minimum 160.0 ,0.0,872,873
+No additional requirements.,34.0,878,879
+No additional requirements.,50.0,885,886
+No additional requirements.,60.0,886,887
+To evolve this pokemon it needs to reach a minimum level and use or know an agile-style move and know the psyshield-bash move,0.0,234,899
+To evolve this pokemon it needs to reach a minimum level during a full moon and have a(n) peat-block used on it ,0.0,217,901
+To evolve this pokemon it needs to reach a minimum level and use or know a strong-style move and know the barb-barrage move,0.0,211,904
+No additional requirements.,16.0,906,907
+No additional requirements.,36.0,907,908
+No additional requirements.,16.0,909,910
+No additional requirements.,36.0,910,911
+No additional requirements.,16.0,912,913
+No additional requirements.,36.0,913,914
+No additional requirements.,18.0,915,916
+No additional requirements.,15.0,917,918
+No additional requirements.,24.0,919,920
+No additional requirements.,18.0,921,922
+No additional requirements.,0.0,922,923
+No additional requirements.,25.0,924,925
+No additional requirements.,26.0,926,927
+No additional requirements.,25.0,928,929
+No additional requirements.,35.0,929,930
+No additional requirements.,24.0,932,933
+No additional requirements.,38.0,933,934
+To evolve this pokemon it needs to reach a minimum level and have a(n) auspicious-armor used on it ,0.0,935,936
+To evolve this pokemon it needs to reach a minimum level and have a(n) malicious-armor used on it ,0.0,935,937
+To evolve this pokemon it needs to reach a minimum level and have a(n) thunder-stone used on it ,0.0,938,939
+No additional requirements.,25.0,940,941
+No additional requirements.,30.0,942,943
+No additional requirements.,28.0,944,945
+No additional requirements.,0.0,946,947
+No additional requirements.,30.0,948,949
+To evolve this pokemon it needs to reach a minimum level and have a(n) fire-stone used on it ,0.0,951,952
+No additional requirements.,0.0,953,954
+No additional requirements.,35.0,955,956
+No additional requirements.,24.0,957,958
+No additional requirements.,38.0,958,959
+No additional requirements.,26.0,960,961
+No additional requirements.,38.0,963,964
+No additional requirements.,40.0,965,966
+No additional requirements.,35.0,969,970
+To evolve this pokemon it needs to reach a minimum level during night ,30.0,971,972
+To evolve this pokemon it needs to reach a minimum level and have a(n) ice-stone used on it ,0.0,974,975
+No additional requirements.,0.0,57,979
+To evolve this pokemon it needs to reach a minimum level  and know the twin-beam move,0.0,203,981
+To evolve this pokemon it needs to reach a minimum level  and know the hyper-drill move,0.0,206,982
+No additional requirements.,0.0,625,983
+No additional requirements.,35.0,996,997
+No additional requirements.,54.0,997,998
+No additional requirements.,0.0,999,1000
+No additional requirements.,0.0,1012,1013
+No additional requirements.,0.0,884,1018
+No additional requirements.,0.0,1011,1019
